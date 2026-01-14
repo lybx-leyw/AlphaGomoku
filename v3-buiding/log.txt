@@ -1,0 +1,16 @@
+第3次再次训练
+Epoch 001/100: Train Loss: 1.7924 | Train Acc:  49.58% | Val Loss: 1.9088 | Val Acc:  47.68% | LR: 0.008751
+Epoch 002/100: Train Loss: 1.7674 | Train Acc:  50.04% | Val Loss: 1.8786 | Val Acc:  48.12% | LR: 0.007500
+Epoch 003/100: Train Loss: 1.7346 | Train Acc:  50.69% | Val Loss: 1.8742 | Val Acc:  48.33% | LR: 0.006250
+Epoch 004/100: Train Loss: 1.7076 | Train Acc:  51.28% | Val Loss: 1.8538 | Val Acc:  48.79% | LR: 0.004999
+Epoch 005/100: Train Loss: 1.6794 | Train Acc:  51.86% | Val Loss: 1.8361 | Val Acc:  49.33% | LR: 0.003748
+Epoch 006/100: Train Loss: 1.6495 | Train Acc:  52.49% | Val Loss: 1.8252 | Val Acc:  49.22% | LR: 0.002497
+Epoch 007/100: Train Loss: 1.6190 | Train Acc:  53.23% | Val Loss: 1.8163 | Val Acc:  49.78% | LR: 0.001247
+Epoch 008/100: Train Loss: 1.5881 | Train Acc:  54.05% | Val Loss: 1.8092 | Val Acc:  50.03% | LR: 0.000000
+
+第4次再次训练Epoch 001/100: Train Loss: 1.7568 | Train Acc:  50.24% | Val Loss: 1.8751 | Val Acc:  48.55% | LR: 0.008751
+Epoch 002/100: Train Loss: 1.7350 | Train Acc:  50.71% | Val Loss: 1.8785 | Val Acc:  48.37% | LR: 0.007500
+Epoch 003/100: Train Loss: 1.7116 | Train Acc:  51.13% | Val Loss: 1.8673 | Val Acc:  48.84% | LR: 0.006250
+Epoch 004/100: Train Loss: 1.6863 | Train Acc:  51.75% | Val Loss: 1.8607 | Val Acc:  48.83% | LR: 0.004999
+Epoch 005/100: Train Loss: 1.6581 | Train Acc:  52.31% | Val Loss: 1.8320 | Val Acc:  49.39% | LR: 0.003748
+Epoch 006/100: Train Loss: 1.6303 | Train Acc:  52.95% | Val Loss: 1.8311 | Val Acc:  49.52% | LR: 0.002497
